@@ -6,7 +6,7 @@ Computational models exploring fundamental concepts in astrophysics and cosmolog
 
 This repository contains projects focused on black hole physics and solar physics, combining theoretical relations with numerical modeling to produce interpretable physical insights.
 
-**Stack:** Python, Numpy, Matplotlib, SciPy, Astropy, SunPy
+**Stack:** Python, NumPy, Matplotlib, SciPy, Astropy, SunPy
 
 ## Project Areas
 
