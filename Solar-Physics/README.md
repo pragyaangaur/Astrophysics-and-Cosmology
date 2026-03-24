@@ -30,7 +30,7 @@ Sunspots appear dark not because they emit little energy, but because emission i
 **Stack:** Python, NumPy, Matplotlib
 
 <p align="center">
-<img src="Assets/Sunspots-Radiation-Plots.png" width="800"></p>
+<img src="../Assets/Sunspots-Radiation-Plots.png" width="800"></p>
 
 ### 2. Solar EUV Imaging and Region Extraction
 
@@ -54,4 +54,4 @@ Combining physical coordinates with imaging data enables precise, localized stud
 **Stack:** Python, Matplotlib, Astropy, SunPy
 
 <p align="center">
-<img src="Assets/Solar-Imaging.png" width="800"></p>
+<img src="../Assets/Solar-Imaging.png" width="800"></p>
