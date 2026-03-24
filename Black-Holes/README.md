@@ -27,5 +27,5 @@ The model evaluates thermodynamic quantities directly from analytical relations.
 Larger black holes are colder, while smaller black holes radiate more intensely.
 
 **Stack:** Python, NumPy, SciPy, Matplotlib  
- <p align="center">
-<img src="Assets/Black-Holes-Plots.jpeg" width="800"></p>
+<p align="center">
+<img src="../Assets/Black-Holes-Plots.jpeg" width="800"></p>
