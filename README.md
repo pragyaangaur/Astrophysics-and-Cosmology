@@ -12,18 +12,21 @@ This repository contains projects focused on black hole physics and solar physic
 
 ### Solar Physics
 
-1. **Blackbody Radiation and Solar Intensity**
+1. **Blackbody Radiation and Solar Intensity**  
 Models Planck spectral radiance and Stefan-Boltzmann flux for the quiet Sun, penumbra, and umbra. Quantifies why sunspots appear dark: a temperature drop from 5778 K to 3800 K reduces emitted flux by ~81% via the T⁴ dependence.  
 
-2. **Solar EUV Imaging and Region Extraction**
+2. **Solar EUV Imaging and Region Extraction**  
 Python model using SunPy and Astropy to visualize solar EUV imagery (AIA 171 Å), extracting and plotting a region of interest from full-disk observations using helioprojective coordinates, enabling localized analysis of solar structures.
 
 `See Solar-Physics/`
 
 ### Black Holes
 
-1. **Black Hole Thermodynamics**
+1. **Black Hole Thermodynamics**  
 Visualizes Hawking temperature (T ∝ 1/M), horizon area (A ∝ M²), and Bekenstein-Hawking entropy (S ∝ M²) for Schwarzschild black holes across stellar-mass to supermassive scales.
+
+2. **Black Hole Evaporation Dynamics**
+Numerical solution of the mass loss equation arising from Hawking Radiation, modeling the time evolution of black hole mass and temperature. Demonstrates the nonlinear evaporation process dM/dt ∝ −1/M², finite lifetime scaling t ∝ M³, and the universal normalized decay curve, highlighting how black holes evolve slowly for most of their lifetime before undergoing rapid late-stage collapse.
 
 `See Black-Holes/`
 
