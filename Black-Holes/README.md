@@ -59,4 +59,4 @@ Black hole evaporation is highly nonlinear: nearly all observable change occurs 
 
 **Stack:** Python, NumPy, SciPy, Matplotlib  
 <p align="center">
-<img src="../Assets/BH-Raw-Time-Evolution.png" width="800"><img src="../Assets/Universal-BH-Evaporation.png" width="800"></p>
+<img src="../Assets/BH-Raw-Time-Evolution.png" width="500"><img src="../Assets/Universal-BH-Evaporation.png" width="500"></p>
