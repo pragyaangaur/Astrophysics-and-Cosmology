@@ -25,7 +25,7 @@ Python model using SunPy and Astropy to visualize solar EUV imagery (AIA 171 Å)
 1. **Black Hole Thermodynamics**  
 Visualizes Hawking temperature (T ∝ 1/M), horizon area (A ∝ M²), and Bekenstein-Hawking entropy (S ∝ M²) for Schwarzschild black holes across stellar-mass to supermassive scales.
 
-2. **Black Hole Evaporation Dynamics**
+2. **Black Hole Evaporation Dynamics**  
 Numerical solution of the mass loss equation arising from Hawking Radiation, modeling the time evolution of black hole mass and temperature. Demonstrates the nonlinear evaporation process dM/dt ∝ −1/M², finite lifetime scaling t ∝ M³, and the universal normalized decay curve, highlighting how black holes evolve slowly for most of their lifetime before undergoing rapid late-stage collapse.
 
 `See Black-Holes/`
